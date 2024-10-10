@@ -1,13 +1,15 @@
 - ### Boas vindas ao meu perfil ❤️
 - 
-- ```Meu nome é Elaine Maia``` 
-- 
+- ```Meu nome é Elaine``` 
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou aprendendo a programar no java script 💻 
 - Começei a usar esse site para me ajudar a me organizar com minhas programações
 
 - **### Você entrar em contato comigo :email 📪**
 
--  maia.elaine@escola.pr.gov.br
--  
+maia.elaine@escola.pr.gov.br
 
-![](https://tenor.com/pt-BR/view/bubu-dancing-dance-happy-dance-bubu-cat-gif-9406698208260770694)
+ @machadoe_lainezxtt3
+
+ ![](https://tenor.com/j87GUqmX2m6.gif)
+ 
