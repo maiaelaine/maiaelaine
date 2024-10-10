@@ -11,5 +11,4 @@ maia.elaine@escola.pr.gov.br
 
  @machadoe_lainezxtt3
 
- ![](https://tenor.com/j87GUqmX2m6.gif)
- 
+ ![](https://media1.tenor.com/m/l0qiokc8iCQAAAAC/panther-black-panther.gif)
